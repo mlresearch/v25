@@ -1,0 +1,34 @@
+# Site settings
+# Auto generated from v25.bib
+---
+booktitle: Asian Conference on Machine Learning
+publisher: JMLR Workshop and Conference Proceedings
+volume: 25
+year: '2012'
+shortname: ACML 2012
+sections:
+- name: preface
+  title: Preface
+- name: default
+  title: Accepted Papers
+layout: proceedings
+key: BuntineACML2012
+month: 0
+abstract: 
+origpdf: 
+pdf: "./BuntineACML2012/BuntineACML2012.pdf"
+editors:
+- given: Steven C. H.
+  family: Hoi
+- given: Wray
+  family: Buntine
+title: Asian Conference on Machine Learning
+conference: Asian Conference on Machine Learning
+email: ''
+description: Asian Conference on Machine Learning
+url: http://proceedings.mlr.press
+baseurl: "/v25"
+twitter_username: mlresearch
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"

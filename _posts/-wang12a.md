@@ -1,0 +1,31 @@
+---
+title: Spatial Locality-Aware Sparse Coding and Dictionary Learning
+abstract: Nonlinear encoding of SIFT features has recently shown good promise in image
+  classification. This scheme is able to reduce the training complexity of the traditional
+  bag-of-feature approaches while achieving better performance. As a result, it is
+  suitable for large-scale image classification applications. However, existing nonlinear
+  encoding methods do not explicitly consider the spatial relationship when encoding
+  the local features, but merely leaving the spatial information used at a later stage,
+  e.g. through the spatial pyramid matching, is largely inadequate. In this paper,
+  we propose a joint sparse coding and dictionary learning scheme that take the spatial
+  information into consideration in encoding. Our experiments on synthetic data and
+  benchmark data demonstrate that the proposed scheme can learn a better dictionary
+  and achieve higher classification accuracy.
+pdf: "./wang12a/wang12a.pdf"
+layout: inproceedings
+key: wang12a
+month: 0
+firstpage: 491
+lastpage: 505
+origpdf: http://jmlr.org/proceedings/papers/v25/wang12a/wang12a.pdf
+sections: 
+authors:
+- given: J.
+  family: Wang
+- given: J.
+  family: Yuan
+- given: Z.
+  family: Chen
+- given: Y.
+  family: Wu
+---
