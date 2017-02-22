@@ -15,15 +15,18 @@ abstract: Multivariate Gaussian densities are pervasive in pattern recognition a
   measures.
 pdf: "./aboumoustafa12/aboumoustafa12.pdf"
 layout: inproceedings
-key: aboumoustafa12
+id: aboumoustafa12
 month: 0
 firstpage: 1
 lastpage: 15
+page: 1-15
 origpdf: http://jmlr.org/proceedings/papers/v25/aboumoustafa12/aboumoustafa12.pdf
 sections: 
-authors:
+author:
 - given: K.T.
   family: Abou-Moustafa
 - given: F.P.
   family: Ferrie
+date: '2012-11-17 00:00:01'
+publisher: PMLR
 ---

@@ -15,13 +15,14 @@ abstract: 'A fully probabilistic approach to reconstructing Gaussian graphical m
   depict the high quality and usefulness of the inferred networks.'
 pdf: "./prabhakaran12/prabhakaran12.pdf"
 layout: inproceedings
-key: prabhakaran12
+id: prabhakaran12
 month: 0
 firstpage: 349
 lastpage: 364
+page: 349-364
 origpdf: http://jmlr.org/proceedings/papers/v25/prabhakaran12/prabhakaran12.pdf
 sections: 
-authors:
+author:
 - given: S.
   family: Prabhakaran
 - given: K.J.
@@ -30,4 +31,6 @@ authors:
   family: Böhm
 - given: V.
   family: Roth
+date: '2012-11-17 00:05:49'
+publisher: PMLR
 ---

@@ -16,12 +16,12 @@ sections:
 - name: default
   title: Accepted Papers
 layout: proceedings
-key: BuntineACML2012
+id: BuntineACML2012
 month: 0
 abstract: 
 origpdf: 
 pdf: "./BuntineACML2012/BuntineACML2012.pdf"
-editors:
+editor:
 - given: Steven C. H.
   family: Hoi
 - given: Wray

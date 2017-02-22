@@ -16,15 +16,18 @@ abstract: We introduce a temporal pattern model called Temporal Interval Tree As
   approaches and discuss the results.
 pdf: "./guillame-bert12/guillame-bert12.pdf"
 layout: inproceedings
-key: guillame-bert12
+id: guillame-bert12
 month: 0
 firstpage: 159
 lastpage: 174
+page: 159-174
 origpdf: http://jmlr.org/proceedings/papers/v25/guillame-bert12/guillame-bert12.pdf
 sections: 
-authors:
+author:
 - given: M.
   family: Guillame-Bert
 - given: J.L.
   family: Crowley
+date: '2012-11-17 00:02:39'
+publisher: PMLR
 ---

@@ -17,13 +17,14 @@ abstract: In many classification systems, sensing modalities have different acqu
   that substantial cost reduction without a significant sacrifice in accuracy is achievable.
 pdf: "./trapeznikov12/trapeznikov12.pdf"
 layout: inproceedings
-key: trapeznikov12
+id: trapeznikov12
 month: 0
 firstpage: 459
 lastpage: 474
+page: 459-474
 origpdf: http://jmlr.org/proceedings/papers/v25/trapeznikov12/trapeznikov12.pdf
 sections: 
-authors:
+author:
 - given: K.
   family: Trapeznikov
 - given: V.
@@ -31,4 +32,6 @@ authors:
 - given: !binary |-
     RC4gQ2FzdGF+bgA=
   family: 'on'
+date: '2012-11-17 00:07:39'
+publisher: PMLR
 ---
