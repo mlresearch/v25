@@ -1,0 +1,25 @@
+---
+title: Multi-objective Monte-Carlo Tree Search
+abstract: Concerned with multi-objective reinforcement learning (MORL), this paper
+  presents MO-MCTS, an extension of Monte-Carlo Tree Search to multi-objective sequential
+  decision making. The known multi-objective indicator referred to as hyper-volume
+  indicator is used to define an action selection criterion, replacing the UCB criterion
+  in order to deal with multi-dimensional rewards. MO-MCTS is firstly compared with
+  an existing MORL algorithm on the artificial Deep Sea Treasure problem. Then a scalability
+  study of MO-MCTS is made on the NP-hard problem of grid scheduling, showing that
+  the performance of MO-MCTS matches the non RL-based state of the art albeit with
+  a higher computational cost.
+pdf: "./wang12b/wang12b.pdf"
+layout: inproceedings
+key: wang12b
+month: 0
+firstpage: 507
+lastpage: 522
+origpdf: http://jmlr.org/proceedings/papers/v25/wang12b/wang12b.pdf
+sections: 
+authors:
+- given: W.
+  family: Wang
+- given: M.
+  family: Sebag
+---

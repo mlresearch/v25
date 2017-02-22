@@ -1,0 +1,31 @@
+---
+title: Supervised dimension reduction with topic models
+abstract: We consider supervised dimension reduction (SDR) for problems with discrete
+  variables. Existing methods are computationally expensive, and often do not take
+  the local structure of data into consideration when searching for a low-dimensional
+  space. In this paper, we propose a novel framework for SDR which is (1) general
+  and fiexible so that it can be easily adapted to various unsupervised topic models,
+  (2) able to inherit scalability of unsupervised topic models, and (3) can exploit
+  well label information and local structure of data when searching for a new space.
+  Extensive experiments with adaptations to three models demonstrate that our framework
+  can yield scalable and qualitative methods for SDR. One of those adaptations can
+  perform better than the state-of-the-art method for SDR while enjoying significantly
+  faster speed.
+pdf: "./than12/than12.pdf"
+layout: inproceedings
+key: than12
+month: 0
+firstpage: 395
+lastpage: 410
+origpdf: http://jmlr.org/proceedings/papers/v25/than12/than12.pdf
+sections: 
+authors:
+- given: K.
+  family: Than
+- given: T.B.
+  family: Ho
+- given: D.K.
+  family: Nguyen
+- given: N.K.
+  family: Pham
+---

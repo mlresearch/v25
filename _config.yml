@@ -2,9 +2,13 @@
 # Auto generated from v25.bib
 ---
 booktitle: Asian Conference on Machine Learning
-publisher: JMLR Workshop and Conference Proceedings
+publisher: PMLR
+address: Singapore Management University, Singapoore
 volume: 25
 year: '2012'
+start: 2012-11-04
+end: 2012-11-06
+published: 2012-11-17
 shortname: ACML 2012
 sections:
 - name: preface
@@ -25,7 +29,8 @@ editors:
 title: Asian Conference on Machine Learning
 conference: Asian Conference on Machine Learning
 email: ''
-description: Asian Conference on Machine Learning
+description: Asian Conference on Machine Learning, Singapore Management University,
+  Singapoore
 url: http://proceedings.mlr.press
 baseurl: "/v25"
 twitter_username: mlresearch
