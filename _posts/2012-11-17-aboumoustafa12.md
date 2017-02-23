@@ -28,6 +28,7 @@ author:
 - given: F.P.
   family: Ferrie
 date: 2012-11-17
+address: Singapore Management University, Singapore
 publisher: PMLR
 container-title: Proceedings of the Asian Conference on Machine Learning
 volume: '25'
