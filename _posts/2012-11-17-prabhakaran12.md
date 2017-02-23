@@ -13,7 +13,7 @@ abstract: 'A fully probabilistic approach to reconstructing Gaussian graphical m
   with a suitable prior to enable Bayesian network inference. We present an efficient
   MCMC sampler for this model and discuss the estimation of module networks. Experiments
   depict the high quality and usefulness of the inferred networks.'
-pdf: "./prabhakaran12/prabhakaran12.pdf"
+pdf: http://proceedings.pmlr.press/prabhakaran12/prabhakaran12.pdf
 layout: inproceedings
 id: prabhakaran12
 month: 0
@@ -31,6 +31,15 @@ author:
   family: Böhm
 - given: V.
   family: Roth
-date: '2012-11-17 00:05:49'
+date: 2012-11-17
 publisher: PMLR
+container-title: Asian Conference on Machine Learning
+volume: '25'
+genre: inproceedings
+issued:
+  date-parts:
+  - 2012
+  - 11
+  - 17
+# Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---

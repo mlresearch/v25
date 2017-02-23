@@ -11,9 +11,9 @@ abstract: Multivariate Gaussian densities are pervasive in pattern recognition a
   learning algorithms. Finally, we illustrate the efficacy of the proposed metrics
   on two different manifold learning algorithms when used for motion clustering in
   video data. Our results show that, in this particular application, the new proposed
-  metrics lead to boosts in performance (at least 7\%) when compared to other divergence
+  metrics lead to boosts in performance (at least 7%) when compared to other divergence
   measures.
-pdf: "./aboumoustafa12/aboumoustafa12.pdf"
+pdf: http://proceedings.pmlr.press/aboumoustafa12/aboumoustafa12.pdf
 layout: inproceedings
 id: aboumoustafa12
 month: 0
@@ -27,6 +27,15 @@ author:
   family: Abou-Moustafa
 - given: F.P.
   family: Ferrie
-date: '2012-11-17 00:00:01'
+date: 2012-11-17
 publisher: PMLR
+container-title: Asian Conference on Machine Learning
+volume: '25'
+genre: inproceedings
+issued:
+  date-parts:
+  - 2012
+  - 11
+  - 17
+# Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---

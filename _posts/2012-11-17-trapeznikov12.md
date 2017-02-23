@@ -15,7 +15,7 @@ abstract: In many classification systems, sensing modalities have different acqu
   algorithm in the boosting framework and present convergence results. We test our
   work on synthetic, medical and explosives detection datasets. Our results demonstrate
   that substantial cost reduction without a significant sacrifice in accuracy is achievable.
-pdf: "./trapeznikov12/trapeznikov12.pdf"
+pdf: http://proceedings.pmlr.press/trapeznikov12/trapeznikov12.pdf
 layout: inproceedings
 id: trapeznikov12
 month: 0
@@ -30,8 +30,17 @@ author:
 - given: V.
   family: Saligrama
 - given: !binary |-
-    RC4gQ2FzdGF+bgA=
+    RC4gQ2FzdGHCoG4A
   family: 'on'
-date: '2012-11-17 00:07:39'
+date: 2012-11-17
 publisher: PMLR
+container-title: Asian Conference on Machine Learning
+volume: '25'
+genre: inproceedings
+issued:
+  date-parts:
+  - 2012
+  - 11
+  - 17
+# Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---

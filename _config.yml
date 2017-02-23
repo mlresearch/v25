@@ -3,7 +3,6 @@
 ---
 booktitle: Asian Conference on Machine Learning
 publisher: PMLR
-address: Singapore Management University, Singapoore
 volume: 25
 year: '2012'
 start: 2012-11-04
@@ -18,16 +17,15 @@ sections:
 layout: proceedings
 id: BuntineACML2012
 month: 0
-abstract: 
+abstract: ''
 origpdf: 
-pdf: "./BuntineACML2012/BuntineACML2012.pdf"
+pdf: http://proceedings.pmlr.press/BuntineACML2012/BuntineACML2012.pdf
 editor:
 - given: Steven C. H.
   family: Hoi
 - given: Wray
   family: Buntine
 title: Asian Conference on Machine Learning
-conference: Asian Conference on Machine Learning
 email: ''
 description: Asian Conference on Machine Learning, Singapore Management University,
   Singapoore
@@ -37,8 +35,17 @@ twitter_username: mlresearch
 github_username: mlresearch
 markdown: kramdown
 permalink: "/:title.html"
-gitub:
+github:
   edit: true
+  repository: v25
+conference:
+  name: 
+  url: 
+  location: Singapore Management University, Singapoore
+  dates:
+  - 2012-11-04
+  - 2012-11-05
+  - 2012-11-06
 analytics:
   google:
     tracking_id: UA-92432422-1

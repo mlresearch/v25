@@ -14,7 +14,7 @@ abstract: We introduce a temporal pattern model called Temporal Interval Tree As
   temporal association rules, evaluate our technique with two experiments, introduce
   a metric to evaluate sets of temporal rules, compare the results with two other
   approaches and discuss the results.
-pdf: "./guillame-bert12/guillame-bert12.pdf"
+pdf: http://proceedings.pmlr.press/guillame-bert12/guillame-bert12.pdf
 layout: inproceedings
 id: guillame-bert12
 month: 0
@@ -28,6 +28,15 @@ author:
   family: Guillame-Bert
 - given: J.L.
   family: Crowley
-date: '2012-11-17 00:02:39'
+date: 2012-11-17
 publisher: PMLR
+container-title: Asian Conference on Machine Learning
+volume: '25'
+genre: inproceedings
+issued:
+  date-parts:
+  - 2012
+  - 11
+  - 17
+# Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---
