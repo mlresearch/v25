@@ -28,7 +28,7 @@ editor:
 title: Proceedings of the Asian Conference on Machine Learning
 email: ''
 description: Proceedings of the Asian Conference on Machine Learning, Singapore Management
-  University, Singapoore
+  University, Singapore
 url: http://proceedings.mlr.press
 baseurl: "/v25"
 twitter_username: mlresearch
@@ -41,7 +41,7 @@ github:
 conference:
   name: Asian Conference on Machine Learning
   url: 
-  location: Singapore Management University, Singapoore
+  location: Singapore Management University, Singapore
   dates:
   - 2012-11-04
   - 2012-11-05
