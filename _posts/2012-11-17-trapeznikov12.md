@@ -34,7 +34,7 @@ author:
   family: 'on'
 date: 2012-11-17
 publisher: PMLR
-container-title: Asian Conference on Machine Learning
+container-title: Proceedings of the Asian Conference on Machine Learning
 volume: '25'
 genre: inproceedings
 issued:

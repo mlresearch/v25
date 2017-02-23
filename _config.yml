@@ -1,7 +1,7 @@
 # Site settings
 # Auto generated from v25.bib
 ---
-booktitle: Asian Conference on Machine Learning
+booktitle: Proceedings of the Asian Conference on Machine Learning
 publisher: PMLR
 volume: 25
 year: '2012'
@@ -25,10 +25,10 @@ editor:
   family: Hoi
 - given: Wray
   family: Buntine
-title: Asian Conference on Machine Learning
+title: Proceedings of the Asian Conference on Machine Learning
 email: ''
-description: Asian Conference on Machine Learning, Singapore Management University,
-  Singapoore
+description: Proceedings of the Asian Conference on Machine Learning, Singapore Management
+  University, Singapoore
 url: http://proceedings.mlr.press
 baseurl: "/v25"
 twitter_username: mlresearch
