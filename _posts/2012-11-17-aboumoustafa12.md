@@ -13,20 +13,20 @@ abstract: Multivariate Gaussian densities are pervasive in pattern recognition a
   video data. Our results show that, in this particular application, the new proposed
   metrics lead to boosts in performance (at least 7%) when compared to other divergence
   measures.
-pdf: http://proceedings.pmlr.press/aboumoustafa12/aboumoustafa12.pdf
+pdf: http://jmlr.org/proceedings/papers/v25/aboumoustafa12/aboumoustafa12.pdf
 layout: inproceedings
 id: aboumoustafa12
 month: 0
 firstpage: 1
 lastpage: 15
 page: 1-15
-origpdf: http://jmlr.org/proceedings/papers/v25/aboumoustafa12/aboumoustafa12.pdf
 sections: 
 author:
 - given: K.T.
   family: Abou-Moustafa
 - given: F.P.
   family: Ferrie
+reponame: v25
 date: 2012-11-17
 address: Singapore Management University, Singapore
 publisher: PMLR

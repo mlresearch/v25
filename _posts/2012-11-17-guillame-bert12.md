@@ -14,20 +14,20 @@ abstract: We introduce a temporal pattern model called Temporal Interval Tree As
   temporal association rules, evaluate our technique with two experiments, introduce
   a metric to evaluate sets of temporal rules, compare the results with two other
   approaches and discuss the results.
-pdf: http://proceedings.pmlr.press/guillame-bert12/guillame-bert12.pdf
+pdf: http://jmlr.org/proceedings/papers/v25/guillame-bert12/guillame-bert12.pdf
 layout: inproceedings
 id: guillame-bert12
 month: 0
 firstpage: 159
 lastpage: 174
 page: 159-174
-origpdf: http://jmlr.org/proceedings/papers/v25/guillame-bert12/guillame-bert12.pdf
 sections: 
 author:
 - given: M.
   family: Guillame-Bert
 - given: J.L.
   family: Crowley
+reponame: v25
 date: 2012-11-17
 address: Singapore Management University, Singapore
 publisher: PMLR
