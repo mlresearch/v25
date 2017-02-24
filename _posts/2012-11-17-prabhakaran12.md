@@ -15,6 +15,7 @@ abstract: 'A fully probabilistic approach to reconstructing Gaussian graphical m
   depict the high quality and usefulness of the inferred networks.'
 pdf: http://proceedings.mlr.press/v25/prabhakaran12/prabhakaran12.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: prabhakaran12
 month: 0
 firstpage: 349

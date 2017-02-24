@@ -16,6 +16,7 @@ abstract: We introduce a temporal pattern model called Temporal Interval Tree As
   approaches and discuss the results.
 pdf: http://proceedings.mlr.press/v25/guillame-bert12/guillame-bert12.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: guillame-bert12
 month: 0
 firstpage: 159

@@ -17,6 +17,7 @@ abstract: In many classification systems, sensing modalities have different acqu
   that substantial cost reduction without a significant sacrifice in accuracy is achievable.
 pdf: http://proceedings.mlr.press/v25/trapeznikov12/trapeznikov12.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: trapeznikov12
 month: 0
 firstpage: 459
