@@ -26,7 +26,7 @@ editor:
   family: Buntine
 description: |
   Proceedings of the Asian Conference on Machine Learning
-    Held in Singapore Management University, Singapore on 4-06 November 2012
+    Held in Singapore Management University, Singapore on 04-06 November 2012
 
   Published as Volume 25 by the Proceedings of Machine Learning Research on 17 November 2012.
 
@@ -36,7 +36,7 @@ description: |
 
   Series Editors:
     Neil D. Lawrence
-date_str: 4--06 Nov
+date_str: 04--06 Nov
 url: http://proceedings.mlr.press
 baseurl: "/v25"
 twitter_username: mlresearch
