@@ -17,12 +17,13 @@ series: Proceedings of Machine Learning Research
 id: BuntineACML2012
 month: 0
 abstract: ''
+tex_title: 
+title: Proceedings of Machine Learning Research
 editor:
 - given: Steven C. H.
   family: Hoi
 - given: Wray
   family: Buntine
-title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the Asian Conference on Machine Learning
     Held in Singapore Management University, Singapore on 4-06 November 2012

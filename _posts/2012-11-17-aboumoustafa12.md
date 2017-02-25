@@ -18,6 +18,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: aboumoustafa12
 month: 0
+tex_title: 'A Note on Metric Properties for Some Divergence Measures: The Gaussian
+  Case'
 firstpage: 1
 lastpage: 15
 page: 1-15

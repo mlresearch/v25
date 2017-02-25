@@ -18,6 +18,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: prabhakaran12
 month: 0
+tex_title: Recovering Networks from Distance Data
 firstpage: 349
 lastpage: 364
 page: 349-364

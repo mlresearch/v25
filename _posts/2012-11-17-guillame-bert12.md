@@ -19,6 +19,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: guillame-bert12
 month: 0
+tex_title: Learning Temporal Association Rules on Symbolic Time Sequences
 firstpage: 159
 lastpage: 174
 page: 159-174

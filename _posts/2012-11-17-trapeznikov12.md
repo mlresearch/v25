@@ -20,6 +20,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: trapeznikov12
 month: 0
+tex_title: Multi-Stage Classifier Design
 firstpage: 459
 lastpage: 474
 page: 459-474
