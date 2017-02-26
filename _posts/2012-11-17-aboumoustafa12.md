@@ -23,7 +23,8 @@ tex_title: 'A Note on Metric Properties for Some Divergence Measures: The Gaussi
 firstpage: 1
 lastpage: 15
 page: 1-15
-sections: 
+order: 1
+cycles: false
 author:
 - given: K.T.
   family: Abou-Moustafa

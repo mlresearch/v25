@@ -22,7 +22,8 @@ tex_title: Recovering Networks from Distance Data
 firstpage: 349
 lastpage: 364
 page: 349-364
-sections: 
+order: 349
+cycles: false
 author:
 - given: S.
   family: Prabhakaran

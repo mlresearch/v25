@@ -23,7 +23,8 @@ tex_title: Learning Temporal Association Rules on Symbolic Time Sequences
 firstpage: 159
 lastpage: 174
 page: 159-174
-sections: 
+order: 159
+cycles: false
 author:
 - given: M.
   family: Guillame-Bert

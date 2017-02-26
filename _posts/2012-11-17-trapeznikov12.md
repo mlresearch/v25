@@ -24,7 +24,8 @@ tex_title: Multi-Stage Classifier Design
 firstpage: 459
 lastpage: 474
 page: 459-474
-sections: 
+order: 459
+cycles: false
 author:
 - given: K.
   family: Trapeznikov
