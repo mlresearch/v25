@@ -27,13 +27,12 @@ page: 459-474
 order: 459
 cycles: false
 author:
-- given: K.
-  family: Trapeznikov
-- given: V.
-  family: Saligrama
-- given: !binary |-
-    RC4gQ2FzdGHCoG4A
-  family: 'on'
+- family: Trapeznikov
+  given: Kirill
+- family: Saligrama
+  given: Venkatesh
+- family: Castañón
+  given: David
 date: 2012-11-17
 address: Singapore Management University, Singapore
 publisher: PMLR
