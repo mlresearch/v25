@@ -16,15 +16,13 @@ layout: proceedings
 series: Proceedings of Machine Learning Research
 id: BuntineACML2012
 month: 0
-abstract: ''
-tex_title: 
-title: Proceedings of Machine Learning Research
 cycles: false
 editor:
 - given: Steven C. H.
   family: Hoi
 - given: Wray
   family: Buntine
+title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the Asian Conference on Machine Learning
     Held in Singapore Management University, Singapore on 04-06 November 2012
@@ -40,7 +38,7 @@ description: |
 date_str: 04--06 Nov
 url: http://proceedings.mlr.press
 baseurl: "/v25"
-twitter_username: mlresearch
+twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
 permalink: "/:title.html"
@@ -52,6 +50,7 @@ display:
     bibtex: true
     endnote: true
     apa: true
+    ris: true
   comments: false
 email: ''
 conference:
@@ -67,3 +66,4 @@ analytics:
     tracking_id: UA-92432422-1
 # Site settings
 # Auto generated from v25.bib
+---
