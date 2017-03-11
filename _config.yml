@@ -1,5 +1,5 @@
 ---
-booktitle: Proceedings of the Asian Conference on Machine Learning
+booktitle: Proceedings of the Fourth Asian Conference on Machine Learning
 publisher: PMLR
 volume: 25
 year: '2012'
@@ -24,7 +24,7 @@ editor:
   family: Buntine
 title: Proceedings of Machine Learning Research
 description: |
-  Proceedings of the Asian Conference on Machine Learning
+  Proceedings of the Fourth Asian Conference on Machine Learning
     Held in Singapore Management University, Singapore on 04-06 November 2012
 
   Published as Volume 25 by the Proceedings of Machine Learning Research on 17 November 2012.
@@ -61,6 +61,7 @@ conference:
   - 2012-11-04
   - 2012-11-05
   - 2012-11-06
+  number: 4
 analytics:
   google:
     tracking_id: UA-92432422-1
