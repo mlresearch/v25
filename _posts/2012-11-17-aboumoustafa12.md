@@ -26,9 +26,9 @@ page: 1-15
 order: 1
 cycles: false
 author:
-- given: K.T.
+- given: Karim T.
   family: Abou-Moustafa
-- given: F.P.
+- given: Frank P.
   family: Ferrie
 date: 2012-11-17
 address: Singapore Management University, Singapore
