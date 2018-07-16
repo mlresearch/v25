@@ -26,9 +26,9 @@ page: 159-174
 order: 159
 cycles: false
 author:
-- given: M.
+- given: Mathieu
   family: Guillame-Bert
-- given: J.L.
+- given: James L.
   family: Crowley
 date: 2012-11-17
 address: Singapore Management University, Singapore
