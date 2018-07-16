@@ -25,13 +25,13 @@ page: 349-364
 order: 349
 cycles: false
 author:
-- given: S.
+- given: Sandhya
   family: Prabhakaran
-- given: K.J.
+- given: Karin J.
   family: Metzner
-- given: A.
+- given: Alexander
   family: Böhm
-- given: V.
+- given: Volker
   family: Roth
 date: 2012-11-17
 address: Singapore Management University, Singapore
